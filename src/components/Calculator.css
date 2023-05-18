@@ -1,0 +1,9 @@
+.Container {
+  height: 60rem;
+  width: 40rem;
+}
+
+.row {
+  width: inherit;
+  display: flex;
+}

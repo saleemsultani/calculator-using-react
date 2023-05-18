@@ -1,0 +1,8 @@
+.textInput {
+  text-align: right;
+  background-color: black;
+  color: white;
+  border: none;
+  width: inherit;
+  height: 8rem;
+}
