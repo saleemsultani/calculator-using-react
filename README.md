@@ -1,2 +1,2 @@
 # calculator-using-react
-I phone Calculator Using ReactJS
+Iphone Calculator Using ReactJS
